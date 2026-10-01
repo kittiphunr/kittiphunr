@@ -8,10 +8,9 @@
 |---|---|---|
 | **TOR-MCU-Standard** | ชุดเครื่องมือจัดทำเอกสาร TOR มาตรฐาน มจร. | VBA |
 | **BOQ-MCU** | เครื่องมือจัดทำ BOQ / ประมาณราคา | Python |
-| **Precision-QC** | ระบบตรวจสอบคุณภาพ | JavaScript |
+| **Precision-QC** | ระบบตรวจสอบคุณภาพ | JavaScript | Python |
 | **MCUPR-CANTEEN** | ระบบโรงอาหาร มจร. แพร่ | C++ |
 | **IV-Monitor-BCNPH** | ระบบติดตามสารน้ำทางหลอดเลือด (IoT) | C++ |
-| **Music Player ESP32-S3** | เครื่องเล่นเพลงบนจอ 2.8 นิ้ว ESP32-S3 | C |
 
 ## 🌐 เว็บไซต์ผลงาน
 https://kittiphunr.github.io
