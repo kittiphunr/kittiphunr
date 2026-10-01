@@ -1,16 +1,20 @@
-## Hi there 👋
+# สวัสดีครับ 👋 ผม กิตติพันธ์ รัตนคร (Kittiphun Ruttanakorn)
 
-<!--
-**kittiphunr/kittiphunr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+นักวิชาการคอมพิวเตอร์ มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย วิทยาเขตแพร่
+พัฒนาเครื่องมือดิจิทัลเพื่อช่วยงานบริหาร งานพัสดุ และงานวิชาการของมหาวิทยาลัย
 
-Here are some ideas to get you started:
+## 🛠️ ผลงาน
+| โครงการ | รายละเอียด | ภาษา |
+|---|---|---|
+| **TOR-MCU-Standard** | ชุดเครื่องมือจัดทำเอกสาร TOR มาตรฐาน มจร. | VBA |
+| **BOQ-MCU** | เครื่องมือจัดทำ BOQ / ประมาณราคา | Python |
+| **Precision-QC** | ระบบตรวจสอบคุณภาพ | JavaScript |
+| **MCUPR-CANTEEN** | ระบบโรงอาหาร มจร. แพร่ | C++ |
+| **IV-Monitor-BCNPH** | ระบบติดตามสารน้ำทางหลอดเลือด (IoT) | C++ |
+| **Music Player ESP32-S3** | เครื่องเล่นเพลงบนจอ 2.8 นิ้ว ESP32-S3 | C |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 เว็บไซต์ผลงาน
+https://kittiphunr.github.io
+
+## 📫 ติดต่อ
+kittiphun.rut@mcu.ac.th
